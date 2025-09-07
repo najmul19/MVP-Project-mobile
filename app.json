@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "RBAC MVP",
+    "slug": "rbac-mvp",
+    "scheme": "rbacmvp",
+    "platforms": ["ios", "android", "web"]
+  }
+}
